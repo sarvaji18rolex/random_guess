@@ -1,5 +1,5 @@
 import random
-
+ 
 def number_guess_game():
     print("🎯 Welcome to the Number Guessing Game!") 
     print("I'm thinking of a number between 1 and 100.")
@@ -33,6 +33,7 @@ def number_guess_game():
 
 if __name__ == "__main__":
     number_guess_game()
+
 
 
 
